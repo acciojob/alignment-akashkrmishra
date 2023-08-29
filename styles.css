@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+table,td{
+	border:1px solid black;
+	width:70%;
+	
+}
+td{
+	padding:1px;
+	spacing:1px;
+	height:
+}
+.middle{
+	height:100px;
+}
+.lrow{
+	background-color:green;
+}
